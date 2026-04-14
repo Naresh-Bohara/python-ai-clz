@@ -2,9 +2,9 @@
 
 #-------------- 1. variables demo: ------------------------
 
-name = "Naresh Bohara"
-age  = 23
-address = "Dhangadhi"
+# name = "Naresh Bohara"
+# age  = 23
+# address = "Dhangadhi"
 
 # print("My name is:",name, ", I am", age, ", I live in ", address)
 
@@ -20,19 +20,27 @@ address = "Dhangadhi"
 # print(_2name)
 
 # 2. variables are case sensitive:
-NAME = "Naresh"
-name = "Dammar"
-print(NAME, name)
+# NAME = "Naresh"
+# name = "Dammar"
+# print(NAME, name)
 
 # 3. avoid use of predefind words in python:
-if1 = 23
-class2  = 43
-while3 = 0
+# if1 = 23
+# class2  = 43
+# while3 = 0
 
 # -----------------3. Variable Assignment: ------------------------
 # -> assign value to variable.
-age = 23
+# age = 23
 
 # multiple varaiable assignment:
-stname, stroll, stclz = "Dammar", 12, "KMC"
-print(stname, stroll, stclz)
+# stname, stroll, stclz = "Dammar", 12, "KMC"
+# print(stname, stroll, stclz)
+
+# variable reassignment:
+# name = "dammar"
+# name = "Naresh"
+# NAME = "Rohan"
+# NAME = "Rohan2"
+# print(name)
+# print(NAME)
